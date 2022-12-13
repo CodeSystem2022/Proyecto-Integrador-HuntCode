@@ -1,4 +1,4 @@
-# AsistenciaHuntCode  Y cajero automatico el cual pertenece al TRABAJO INTEGRADOR
+Cajero automatico el cual pertenece al TRABAJO INTEGRADOR
 
 Nicol Peñalve
 Franco Botto
